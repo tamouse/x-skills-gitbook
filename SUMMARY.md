@@ -1,13 +1,20 @@
 # Table of contents
 
 * [x-Skills](README.md)
-* [Listening and Speaking](listening-and-speaking.md)
-
-## Precision Inquiry
-
-* [Precision Inquiry](precision-inquiry/precision-inquiry/README.md)
-  * [Desired State](precision-inquiry/precision-inquiry/desired-state.md)
-  * [Well-formed Outcomes](precision-inquiry/precision-inquiry/well-formed-outcomes.md)
-  * [Three Golden Questions](precision-inquiry/precision-inquiry/three-golden-questions.md)
-  * [Rest Of The Questions](precision-inquiry/precision-inquiry/rest-of-the-questions.md)
+* [Listening and Speaking](listening-and-speaking/README.md)
+  * [On Listening](listening-and-speaking/on-listening.md)
+* [Precision Inquiry](precision-inquiry-1/README.md)
+  * [Desired State](precision-inquiry-1/desired-state.md)
+  * [Well-formed Outcomes](precision-inquiry-1/well-formed-outcomes.md)
+  * [Three Golden Questions](precision-inquiry-1/three-golden-questions.md)
+  * [Rest Of The Questions](precision-inquiry-1/rest-of-the-questions.md)
+* [Levels of Experience](levels-of-experience/README.md)
+  * [Environment](levels-of-experience/environment.md)
+  * [Behaviour](levels-of-experience/behaviour.md)
+  * [Skills and Capabilities](levels-of-experience/skills-and-capabilities.md)
+  * [Values and Beliefs](levels-of-experience/values-and-beliefs.md)
+  * [Identity](levels-of-experience/identity.md)
+  * [Purpose and Mission](levels-of-experience/purpose-and-mission.md)
+  * [Benefits of sorting using Levels of Experience](levels-of-experience/benefits-of-sorting-using-levels-of-experience.md)
+  * [An example](levels-of-experience/an-example.md)
 
